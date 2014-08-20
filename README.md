@@ -6,7 +6,7 @@ auto-css-sprite-python
 
 ## 前言
 
-短短续续学习过python这门语言，我非常喜欢这门语言，会继续学习下去。
+断断续续学习过python这门语言，我非常喜欢这门语言，会继续学习下去。
 
 完成了这个 ["auto-css-sprite"](https://github.com/paper/auto-css-sprite) 项目的 python 版本，也是边写边Google的
 
