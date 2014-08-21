@@ -21,8 +21,8 @@ spriteCssName = 'my-sprite'
 
 #css文件，雪碧图片 background-image url里面的路径前缀
 #设置为 '' 可以直接查看demo数据
-#你可以这样设置 : spritepath = '../images'
-spritepath = ''
+#你可以这样设置 : spriteUrl = '../images'
+spriteUrl = ''
 
 #class 前缀
 prefix = 'acs-'
@@ -42,7 +42,7 @@ d2 = '%d-%d-%d' % (now.year, now.month, now.day)
 spriteName = prefix + classSign + d1 + d2 + '.png'
 
 #sprite.css 里面的雪碧图片的组合路径
-spriteImagePath = spriteName if spritepath == '' else spritepath + "/" + spriteName
+spriteImagePath = spriteName if spriteUrl == '' else spriteUrl + "/" + spriteName
 
 sizeList = []
 imgList = []
