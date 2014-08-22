@@ -14,7 +14,7 @@ import algo
 spritePath = 'C:/Users/paper/Documents/GitHub/auto-css-sprite-python/demo/'
 
 #需要合成雪碧图片的小图片路径
-imagesPath = r'C:/Users/paper/Documents/GitHub/auto-css-sprite-python/tree/'
+imagesPath = 'C:/Users/paper/Documents/GitHub/auto-css-sprite-python/tree/'
 
 # sprite.css 的名字
 spriteCssName = 'my-sprite'
