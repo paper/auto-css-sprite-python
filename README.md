@@ -1,7 +1,7 @@
 auto-css-sprite-python
 ======================
 
-自动生成雪碧图片的 python 版本
+[算法]自动生成雪碧图片的 python 版本
 
 
 ## 前言
